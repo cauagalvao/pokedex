@@ -12,3 +12,5 @@ HTML
 CSS
 JavaScript
 PokéAPI
+
+Voce pode encotrar o site em: pokedex-142.vercel.app
