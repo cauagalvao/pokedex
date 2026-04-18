@@ -1,0 +1,27 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "A Pokedex application using PokeAPI",
+  "main": "index.html",
+  "scripts": {
+    "dev": "echo 'Open index.html in your browser or use a local server'",
+    "start": "echo 'This is a static site. Deploy to Vercel or use a local server.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cauagalvao/pokedex.git"
+  },
+  "keywords": [
+    "pokedex",
+    "pokemon",
+    "pokeapi"
+  ],
+  "author": "Caua Galvao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cauagalvao/pokedex/issues"
+  },
+  "homepage": "https://github.com/cauagalvao/pokedex#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
